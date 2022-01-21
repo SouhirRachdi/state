@@ -1,0 +1,53 @@
+.Protf{
+    background-size: cover;
+    background-color: black;
+   
+}
+.photoss{
+    display: flex;
+    align-items: flex-start;
+    padding-left: 30px;
+    margin-bottom: 60px;
+}
+.souhir{
+    color:#fff
+}
+.text{
+    color: #fff;
+}
+.flu{
+    display: flex;
+    flex-direction: row-reverse;
+    
+
+}
+.flexy{
+    display: flex;
+    flex-direction: column;
+    float: right;
+    padding-right: 150px;
+   
+  
+}
+.flexy h1{
+    margin-bottom: 10px;
+    font-weight: 700;
+    padding-right: 250px;
+    font-family: Montserrat,sans-serif;
+    font-size: 60px;
+}
+.but{
+    border: none;
+    width: 150px;
+    height: 40px;
+    margin-top: 30px;
+    margin-left: 100px;
+    margin-bottom:100px;
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font: 1.5em sans-serif;
+    background-image:linear-gradient(225deg,  #090df1 0%,#c927d8 100%,#00c5d3 50%);
+    border-radius:5px;
+
+  
+}
